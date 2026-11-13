@@ -425,6 +425,10 @@ body {
     background: linear-gradient(135deg, #00b2ff, #006aff);
 }
 
+.github-icon {
+    background: #181717;
+}
+
 .contact-method-text {
     display: grid;
     min-width: 0;
